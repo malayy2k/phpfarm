@@ -11,4 +11,4 @@ The Pyrus PHAR archive is fetched from http://pear2.php.net/pyrus.phar (which al
 If a file cannot be found, try to fetch it manually and put it into src/bzips/.
 
 Setup
-Check out phpfarm from git:
+Check out phpfarm from git: git clone https://github.com/malayy2k/phpfarm.git
